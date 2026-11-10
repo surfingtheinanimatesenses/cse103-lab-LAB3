@@ -7,8 +7,7 @@
 ## Overview
 
 This repository contains lab work for LAB 3 of the
-Computer Fundamentals & Career Pathways (CSE103) course at
-K.R. Mangalam University, Gurugram.
+Computer Fundamentals & Career Pathways (CSE103)
 
 ## Repository Structure
 
